@@ -1,4 +1,4 @@
-# Snake Vs Tetris
+# Snake V Tetris
 Game project for Gameccelerator 3.0
 
 <img src="https://user-images.githubusercontent.com/27884873/71327387-73291c80-2510-11ea-9cb7-9033c0b56031.png" alt="SvT Menu"/>
